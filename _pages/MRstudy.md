@@ -35,4 +35,4 @@
 
 ## 三、项目结题情况
 
-https://www.canva.cn/design/DAGYM-GJCls/2kNJa7IhX6cHISfU2Mqk5g/edit?utm_content=DAGYM-GJCls&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.cn/design/DAGYM-GJCls/b-TmFaKex6p40X7qwcQYpA/view?utm_content=DAGYM-GJCls&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc9123ef9d2
