@@ -33,6 +33,6 @@
 - **智能设备作为控制器**：借助用户对智能手机的熟悉程度，减少身体运动（Unlu 等，2021）。
 
 
-## 三、项目中期进展
+## 三、项目结题情况
 
 https://www.canva.cn/design/DAGYM-GJCls/2kNJa7IhX6cHISfU2Mqk5g/edit?utm_content=DAGYM-GJCls&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
