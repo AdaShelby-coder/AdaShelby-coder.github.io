@@ -70,7 +70,7 @@ redirect_from:
 - **[数字红会用户体验设计](./digitalcross.md)**  
   这是四人合作完成的一个UX设计作品。我们经过了用户行为数据调研、总结现存界面问题、竞品分析、对界面再设计等一系列步骤，得到了最终的作品。
 
-- **[SkyLander飞行着陆模拟AI教练](https://www.canva.cn/design/DAGp8Bqx1wk/MvefVQwP5HWvnDPt1GhQJQ/edit?utm_content=DAGp8Bqx1wk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  
+- **[SkyLander飞行着陆模拟AI教练](https://www.canva.cn/design/DAGp8Bqx1wk/veP0ZK_tCeAQ6nY3yi--HA/view?utm_content=DAGp8Bqx1wk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7c3ac3c66b)**  
   我们在这个项目中探索了运用AI为飞行员个性化定制飞行训练计划和教学方式的可能性。项目基于微软模拟飞行这一飞行仿真游戏进行开发。
 
 - **[RayFract拾光伞-AI信息产品设计](https://www.canva.cn/design/DAGobUS7NEk/70edpk5Ddq7qBsHI4n2AEw/view?utm_content=DAGobUS7NEk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h47d2901b9c)**  
