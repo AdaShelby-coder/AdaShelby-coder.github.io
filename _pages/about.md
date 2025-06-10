@@ -76,7 +76,7 @@ redirect_from:
 - **[RayFract拾光伞-AI信息产品设计](https://www.canva.cn/design/DAGobUS7NEk/70edpk5Ddq7qBsHI4n2AEw/view?utm_content=DAGobUS7NEk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h47d2901b9c)**  
   这是六人合作完成的一个基于AI的信息产品。
   
-- **[Ada-AI音乐疗愈师](https://www.canva.cn/design/DAGp8BpRCbA/4G9W8Fp9YsQtkNLzLQQIBg/edit?utm_content=DAGp8BpRCbA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  
+- **[Ada-AI音乐疗愈师](https://www.canva.cn/design/DAGp8BpRCbA/9H5E8slMx1FKfcUzLfH20w/view?utm_content=DAGp8BpRCbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d93826c55)**  
   这是我在unreal中制作的AI数字人Ada，她是一名音乐疗愈师，可以根据人不同的心情给出不同的疗愈建议和音乐。
 
 - **[《遗珍归途》独立游戏开发](https://durian-lover.itch.io/treasure-going-home)**  
