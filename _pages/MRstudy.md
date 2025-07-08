@@ -1,10 +1,4 @@
----
-permalink: /
-title: "基于混合现实的虚拟游戏交互设计研究"
-redirect_from:
-  - /MRstudy/
-  - /MRstudy.html
----
+# 基于混合现实的虚拟游戏交互设计研究
 
 ## 一、项目主要内容简介
 
