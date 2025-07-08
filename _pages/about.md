@@ -66,7 +66,7 @@ redirect_from:
 - **[数字红会用户体验设计](./digitalcross.md)**  
   这是一个UX设计作品，我们经过了用户行为数据调研、总结现存界面问题、竞品分析、对界面再设计等一系列步骤得到最终的作品。
 
-- **[《JoySphere》VisionPro游戏开发](./JoySphere.md)**  
+- **[《JoySphere》VisionPro游戏开发](https://www.canva.cn/design/DAGsly2PXKQ/5oRh8I1JgvGvAN7G-p9LZw/view?utm_content=DAGsly2PXKQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcbd3b20d51)**  
   这是我们参加移动应用创新赛的作品，游戏通过移动终端平台——空间计算设备Vision Pro，为用户提供一场沉浸式“儿童趣味游戏记忆穿越”体验。
 
 - **[SkyLander飞行着陆模拟AI教练](https://www.canva.cn/design/DAGp8Bqx1wk/veP0ZK_tCeAQ6nY3yi--HA/view?utm_content=DAGp8Bqx1wk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7c3ac3c66b)**  
