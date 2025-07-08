@@ -80,7 +80,7 @@ redirect_from:
 
 ### 科研经历
 
-- **[基于混合现实的虚拟游戏交互设计研究](./MRstudy.md)**  
+- **[基于混合现实的虚拟游戏交互设计研究](https://www.canva.cn/design/DAGYM-GJCls/b-TmFaKex6p40X7qwcQYpA/view?utm_content=DAGYM-GJCls&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc9123ef9d2)**  
   这是我在2024.5~2025.5作为立项人参与的SRTP科研训练项目，目标是解决“MR设备控制器精度不足以及操控时运动幅度过大”等问题。
 
 ### 其他项目
