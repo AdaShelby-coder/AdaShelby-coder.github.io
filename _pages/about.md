@@ -63,7 +63,7 @@ redirect_from:
 - **[RayFract拾光伞-AI信息产品设计](https://www.canva.cn/design/DAGobUS7NEk/70edpk5Ddq7qBsHI4n2AEw/view?utm_content=DAGobUS7NEk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h47d2901b9c)**  
   这是基于AI的信息产品设计。
 
-- **[数字红会用户体验设计](./digitalcross.md)**  
+- **[数字红会用户体验设计](https://www.canva.cn/design/DAGsmdWLy9Y/QCR0h6l6Caq4Me4Rcivr7A/view?utm_content=DAGsmdWLy9Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h506a3c4f5a)**  
   这是一个UX设计作品，我们经过了用户行为数据调研、总结现存界面问题、竞品分析、对界面再设计等一系列步骤得到最终的作品。
 
 - **[《JoySphere》VisionPro游戏开发](https://www.canva.cn/design/DAGsly2PXKQ/5oRh8I1JgvGvAN7G-p9LZw/view?utm_content=DAGsly2PXKQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcbd3b20d51)**  
