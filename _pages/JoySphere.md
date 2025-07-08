@@ -5,4 +5,4 @@
 
 ## 宣传视频
 
-[点击下载视频](../assets/JoySphere.mp4)
+[点击观看视频](../assets/JoySphere.mp4)
