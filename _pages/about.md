@@ -91,7 +91,7 @@ redirect_from:
 - **[交互式眼球音箱](https://www.canva.cn/design/DAGare4eU1c/X4ikEcWDmlmzDbFcCaTfkA/view?utm_content=DAGare4eU1c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haf6b910ae9)**  
   这是一个机械交互装置，是对Arduino的一个初步尝试。
 
-- **[《HappyMedBricks》儿童喂药助手](./happymedbricks.md)**  
+- **[《HappyMedBricks》儿童喂药助手](https://www.canva.cn/design/DAGsl1KmoFg/FTCdID791fDa8oJSbngTVg/view?utm_content=DAGsl1KmoFg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9552257c76)**  
   这是一个概念设计作品，我们从“孩子不愿意吃药”这一设计问题出发，对药品包装进行了再设计。
 
 - **[水产养殖微塑料净化器](https://www.canva.cn/design/DAGsl_HhthA/ykjs08k7oc5MrJifGLec8A/view?utm_content=DAGsl_HhthA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1bea96e786)**  
