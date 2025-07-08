@@ -66,13 +66,16 @@ redirect_from:
 - **[数字红会用户体验设计](./digitalcross.md)**  
   这是一个UX设计作品，我们经过了用户行为数据调研、总结现存界面问题、竞品分析、对界面再设计等一系列步骤得到最终的作品。
 
+- **[《JoySphere》VisionPro游戏开发](./JoySphere.md)**  
+  这是我们参加移动应用创新赛的作品，游戏通过移动终端平台——空间计算设备Vision Pro，为用户提供一场沉浸式“儿童趣味游戏记忆穿越”体验。
+
 - **[SkyLander飞行着陆模拟AI教练](https://www.canva.cn/design/DAGp8Bqx1wk/veP0ZK_tCeAQ6nY3yi--HA/view?utm_content=DAGp8Bqx1wk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7c3ac3c66b)**  
   我们在这个项目中探索了运用AI为飞行员个性化定制飞行训练计划和教学方式的可能性。项目基于微软模拟飞行这一仿真游戏进行开发。
   
 - **[Ada-AI音乐疗愈师](https://www.canva.cn/design/DAGp8BpRCbA/9H5E8slMx1FKfcUzLfH20w/view?utm_content=DAGp8BpRCbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d93826c55)**  
   这是我在unreal中制作的AI数字人Ada，她是一名音乐疗愈师，可以根据个人情绪定制化地给出疗愈建议和疗愈音乐。
 
-- **[《遗珍归途》独立游戏开发](https://durian-lover.itch.io/treasure-going-home)**  
+- **[《遗珍归途》3D游戏开发](https://durian-lover.itch.io/treasure-going-home)**  
   这是五人合作完成的一个3D游戏demo。1900年八国联军夺走中国文物，玩家作为复原文物的探险者，需要在游戏中夺回中国遗失的文物，将它们带回故乡。
 
 ### 科研经历
