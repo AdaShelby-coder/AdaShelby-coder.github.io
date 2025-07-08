@@ -86,16 +86,16 @@ redirect_from:
 ### 其他项目
 
 - **[《中国农产品时令探索》信息可视化](./seasonvegetable.md)**  
-  这是我在《跨媒体数据可视化》课程中完成的一个静态图文作品。我对中国农业部2020-2022年的农产品批发价数据进行了分析并以图表的形式将数据进行了可视化。
+  这是一个静态图文作品，我对中国农业部2020-2022年的农产品批发价数据进行了分析并以图表的形式将数据进行了可视化。
   
-- **[交互式眼球音箱](./eyeball.md)**  
-  这是我在《感知、通信与控制》课程上实现的一个小作品，是对Arduino的一个初步尝试。
+- **[交互式眼球音箱](https://www.canva.cn/design/DAGare4eU1c/X4ikEcWDmlmzDbFcCaTfkA/view?utm_content=DAGare4eU1c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haf6b910ae9)**  
+  这是一个机械交互装置，是对Arduino的一个初步尝试。
 
 - **[HappyMedBricks](./happymedbricks.md)**
-  这是我在《设计思维与表达》课程中三人合作完成的一个概念设计作品。我们从“孩子不愿意吃药”这一设计问题出发，对药品包装进行了再设计。
+  这是一个概念设计作品，我们从“孩子不愿意吃药”这一设计问题出发，对药品包装进行了再设计。
 
 - **[水产养殖微塑料净化器](https://www.canva.cn/design/DAGsl_HhthA/ykjs08k7oc5MrJifGLec8A/view?utm_content=DAGsl_HhthA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1bea96e786)**  
-  这是我在《社会创新设计》课程上五人合作完成的一个生态设计作品。
+  这是一个生态设计作品，主要解决水产养殖中微塑料的问题。
 
 ### 实习经历
 
