@@ -26,8 +26,6 @@ redirect_from:
 
 ## 学习背景
 
-### 已学习
-
 - **计算机相关课程**：
   - C/C++
   - 数据结构基础
@@ -35,9 +33,9 @@ redirect_from:
   - 计算机游戏程序设计
   - 跨媒体数据可视化
 - **设计相关课程**：
-  - 用户体验与产品创新设计
   - 信息产品设计
   - 信息与交互设计技术
+  - 用户体验与产品创新设计
   - 感知、通信与控制
   - 服务创新设计
   - 设计管理
@@ -54,7 +52,7 @@ redirect_from:
 ### 技能
 
 - **熟练**：C/C++, Figma, Unity, Arduino, 剪映, Rhino, Keyshot  
-- **了解**：Unreal, HTML/CSS/JavaScript, tableau, Python, OpenGL, AI, Stable Diffusion, MidJourney  
+- **了解**：Unreal, tableau, Python, HTML/CSS/JavaScript, OpenGL, Stable Diffusion  
 
 ---
 
@@ -62,20 +60,20 @@ redirect_from:
   
 ### 作品集
 
+- **[RayFract拾光伞-AI信息产品设计](https://www.canva.cn/design/DAGobUS7NEk/70edpk5Ddq7qBsHI4n2AEw/view?utm_content=DAGobUS7NEk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h47d2901b9c)**  
+  这是基于AI的信息产品设计。
+
 - **[数字红会用户体验设计](./digitalcross.md)**  
-  这是四人合作完成的一个UX设计作品。我们经过了用户行为数据调研、总结现存界面问题、竞品分析、对界面再设计等一系列步骤，得到了最终的作品。
+  这是一个UX设计作品，我们经过了用户行为数据调研、总结现存界面问题、竞品分析、对界面再设计等一系列步骤得到最终的作品。
 
 - **[SkyLander飞行着陆模拟AI教练](https://www.canva.cn/design/DAGp8Bqx1wk/veP0ZK_tCeAQ6nY3yi--HA/view?utm_content=DAGp8Bqx1wk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7c3ac3c66b)**  
-  我们在这个项目中探索了运用AI为飞行员个性化定制飞行训练计划和教学方式的可能性。项目基于微软模拟飞行这一飞行仿真游戏进行开发。
-
-- **[RayFract拾光伞-AI信息产品设计](https://www.canva.cn/design/DAGobUS7NEk/70edpk5Ddq7qBsHI4n2AEw/view?utm_content=DAGobUS7NEk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h47d2901b9c)**  
-  这是六人合作完成的一个基于AI的信息产品。
+  我们在这个项目中探索了运用AI为飞行员个性化定制飞行训练计划和教学方式的可能性。项目基于微软模拟飞行这一仿真游戏进行开发。
   
 - **[Ada-AI音乐疗愈师](https://www.canva.cn/design/DAGp8BpRCbA/9H5E8slMx1FKfcUzLfH20w/view?utm_content=DAGp8BpRCbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d93826c55)**  
-  这是我在unreal中制作的AI数字人Ada，她是一名音乐疗愈师，可以根据人不同的心情给出不同的疗愈建议和音乐。
+  这是我在unreal中制作的AI数字人Ada，她是一名音乐疗愈师，可以根据个人情绪定制化地给出疗愈建议和疗愈音乐。
 
 - **[《遗珍归途》独立游戏开发](https://durian-lover.itch.io/treasure-going-home)**  
-  这是五人合作完成的一个3D游戏demo。1900年八国联军夺走中国文物，玩家作为复原文物的探险者，需要在游戏中夺回中国遗失的文物，将它们带回故乡，其中的野怪影射了夺走文物的列强。
+  这是五人合作完成的一个3D游戏demo。1900年八国联军夺走中国文物，玩家作为复原文物的探险者，需要在游戏中夺回中国遗失的文物，将它们带回故乡。
 
 ### 科研经历
 
