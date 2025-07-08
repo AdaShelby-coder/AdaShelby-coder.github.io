@@ -94,7 +94,7 @@ redirect_from:
 - **[HappyMedBricks](./happymedbricks.md)**
   这是我在《设计思维与表达》课程中三人合作完成的一个概念设计作品。我们从“孩子不愿意吃药”这一设计问题出发，对药品包装进行了再设计。
 
-- **[水产养殖微塑料净化器](./watercleaner.md)**  
+- **[水产养殖微塑料净化器](https://www.canva.cn/design/DAGsl_HhthA/ykjs08k7oc5MrJifGLec8A/view?utm_content=DAGsl_HhthA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1bea96e786)**  
   这是我在《社会创新设计》课程上五人合作完成的一个生态设计作品。
 
 ### 实习经历
