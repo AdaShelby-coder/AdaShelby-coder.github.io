@@ -72,7 +72,7 @@ redirect_from:
 - **[SkyLander飞行着陆模拟AI教练](https://www.canva.cn/design/DAGp8Bqx1wk/veP0ZK_tCeAQ6nY3yi--HA/view?utm_content=DAGp8Bqx1wk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7c3ac3c66b)**  
   我们在这个项目中探索了运用AI为飞行员个性化定制飞行训练计划和教学方式的可能性。项目基于微软模拟飞行这一仿真游戏进行开发。
   
-- **[Ada-AI音乐疗愈师](https://www.canva.cn/design/DAGslws6bac/IGqd4kTAtHYeoz_BozUkCA/view?utm_content=DAGslws6bac&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h740095182a)**  
+- **[Ada-AI音乐疗愈师](https://www.canva.cn/design/DAGp8BpRCbA/9H5E8slMx1FKfcUzLfH20w/view?utm_content=DAGp8BpRCbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d93826c55)**  
   这是我在unreal中制作的AI数字人Ada，她是一名音乐疗愈师，可以根据个人情绪定制化地给出疗愈建议和疗愈音乐。
 
 - **[《遗珍归途》3D游戏开发](https://durian-lover.itch.io/treasure-going-home)**  
