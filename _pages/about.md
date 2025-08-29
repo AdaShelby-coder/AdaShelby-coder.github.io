@@ -74,7 +74,7 @@ redirect_from:
 - **[RayFract拾光伞-AI信息产品设计](https://www.canva.cn/design/DAGxcp5DJbI/8wjKsBKVusv7OS5AaaNPkg/view?utm_content=DAGxcp5DJbI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0156a05edc)**  
   这是基于AI的信息产品设计。
 
-- **[数字红会用户体验设计](https://www.canva.cn/design/DAGsmdWLy9Y/QCR0h6l6Caq4Me4Rcivr7A/view?utm_content=DAGsmdWLy9Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h506a3c4f5a)**  
+- **[数字红会用户体验设计](https://www.canva.cn/design/DAGxcy3NzVs/QtEn5Z_T8COJxPgflAvzaA/view?utm_content=DAGxcy3NzVs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hba85b5f635)**  
   这是一个UX设计作品，我们经过了用户行为数据调研、总结现存界面问题、竞品分析、对界面再设计等一系列步骤得到最终的作品。
   
 - **[Ada-AI数字人](https://www.canva.cn/design/DAGxc8pS2TY/as5wwNavMh4wSU-wS2bFGw/view?utm_content=DAGxc8pS2TY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdbe79e068e)**  
