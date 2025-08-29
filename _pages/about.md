@@ -77,7 +77,7 @@ redirect_from:
 - **[数字红会用户体验设计](https://www.canva.cn/design/DAGsmdWLy9Y/QCR0h6l6Caq4Me4Rcivr7A/view?utm_content=DAGsmdWLy9Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h506a3c4f5a)**  
   这是一个UX设计作品，我们经过了用户行为数据调研、总结现存界面问题、竞品分析、对界面再设计等一系列步骤得到最终的作品。
   
-- **[Ada-AI数字人](https://www.canva.cn/design/DAGp8BpRCbA/9H5E8slMx1FKfcUzLfH20w/view?utm_content=DAGp8BpRCbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d93826c55)**  
+- **[Ada-AI数字人](https://www.canva.cn/design/DAGxc8pS2TY/as5wwNavMh4wSU-wS2bFGw/view?utm_content=DAGxc8pS2TY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdbe79e068e)**  
   这是我在unreal中制作的AI数字人Ada，她是一名音乐疗愈师，可以根据个人情绪定制化地给出疗愈建议和疗愈音乐。
 
 - **[《遗珍归途》3D游戏开发](https://durian-lover.itch.io/treasure-going-home)**  
