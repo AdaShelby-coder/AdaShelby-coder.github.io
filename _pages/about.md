@@ -91,7 +91,7 @@ redirect_from:
 - **[《中国农产品时令探索》信息可视化](./seasonvegetable.md)**  
   这是一个静态图文作品，我对中国农业部2020-2022年的农产品批发价数据进行了分析并以图表的形式将数据进行了可视化。
   
-- **[交互式眼球音箱](https://www.canva.cn/design/DAGare4eU1c/X4ikEcWDmlmzDbFcCaTfkA/view?utm_content=DAGare4eU1c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haf6b910ae9)**  
+- **[交互式眼球音箱](https://www.canva.cn/design/DAGxc95QL7E/WCuuaqV_KMcXUDXGmFkqEg/view?utm_content=DAGxc95QL7E&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdd79cfc2c9)**  
   这是一个机械交互装置，是对Arduino的一个初步尝试。
 
 - **[《HappyMedBricks》儿童喂药助手](https://www.canva.cn/design/DAGsl1KmoFg/FTCdID791fDa8oJSbngTVg/view?utm_content=DAGsl1KmoFg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9552257c76)**  
