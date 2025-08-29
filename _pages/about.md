@@ -63,7 +63,7 @@ redirect_from:
 - **[基于混合现实的虚拟游戏交互设计研究](https://www.canva.cn/design/DAGYM-GJCls/b-TmFaKex6p40X7qwcQYpA/view?utm_content=DAGYM-GJCls&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc9123ef9d2)**  
   这是我在2024.5~2025.5作为立项人参与的SRTP科研训练项目，目标是解决“MR设备控制器精度不足以及操控时运动幅度过大”等问题。
 
-- **[多模态音乐感知辅助自我深省与疗愈研究](https://www.canva.cn/design/DAGvf10dIlo/bbs2kdGniXEOZM-524zapw/view?utm_content=DAGvf10dIlo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h31e4a11ade)**  
+- **[多模态音乐感知辅助自我深省与疗愈研究-AI交互设计](https://www.canva.cn/design/DAGvf10dIlo/bbs2kdGniXEOZM-524zapw/view?utm_content=DAGvf10dIlo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h31e4a11ade)**  
   这是我2025.7-2025.9跟学长做的科研项目，目前处于论文收尾阶段，预计投递CHI。
 
 ### 作品集
@@ -77,7 +77,7 @@ redirect_from:
 - **[数字红会用户体验设计](https://www.canva.cn/design/DAGsmdWLy9Y/QCR0h6l6Caq4Me4Rcivr7A/view?utm_content=DAGsmdWLy9Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h506a3c4f5a)**  
   这是一个UX设计作品，我们经过了用户行为数据调研、总结现存界面问题、竞品分析、对界面再设计等一系列步骤得到最终的作品。
   
-- **[Ada-AI音乐疗愈师](https://www.canva.cn/design/DAGp8BpRCbA/9H5E8slMx1FKfcUzLfH20w/view?utm_content=DAGp8BpRCbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d93826c55)**  
+- **[Ada-AI数字人](https://www.canva.cn/design/DAGp8BpRCbA/9H5E8slMx1FKfcUzLfH20w/view?utm_content=DAGp8BpRCbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d93826c55)**  
   这是我在unreal中制作的AI数字人Ada，她是一名音乐疗愈师，可以根据个人情绪定制化地给出疗愈建议和疗愈音乐。
 
 - **[《遗珍归途》3D游戏开发](https://durian-lover.itch.io/treasure-going-home)**  
