@@ -60,7 +60,7 @@ redirect_from:
 
 ### 科研经历
 
-- **[基于混合现实的虚拟游戏交互设计研究](https://www.canva.cn/design/DAGYM-GJCls/b-TmFaKex6p40X7qwcQYpA/view?utm_content=DAGYM-GJCls&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc9123ef9d2)**  
+- **[基于混合现实的虚拟游戏交互设计研究](https://www.canva.cn/design/DAGxc2ilCSU/VEHyLfJKkDB6inXeIG9d2Q/view?utm_content=DAGxc2ilCSU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6ed4cc4ec8)**  
   这是我在2024.5~2025.5作为立项人参与的SRTP科研训练项目，目标是解决“MR设备控制器精度不足以及操控时运动幅度过大”等问题。
 
 - **[多模态音乐感知辅助自我深省与疗愈研究-AI交互设计](https://www.canva.cn/design/DAGvf10dIlo/bbs2kdGniXEOZM-524zapw/view?utm_content=DAGvf10dIlo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h31e4a11ade)**  
