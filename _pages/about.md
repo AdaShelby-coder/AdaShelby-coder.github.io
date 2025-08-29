@@ -97,7 +97,7 @@ redirect_from:
 - **[《HappyMedBricks》儿童喂药助手](https://www.canva.cn/design/DAGsl1KmoFg/FTCdID791fDa8oJSbngTVg/view?utm_content=DAGsl1KmoFg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9552257c76)**  
   这是一个概念设计作品，我们从“孩子不愿意吃药”这一设计问题出发，对药品包装进行了再设计。
 
-- **[水产养殖微塑料净化器](https://www.canva.cn/design/DAGsl_HhthA/ykjs08k7oc5MrJifGLec8A/view?utm_content=DAGsl_HhthA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1bea96e786)**  
+- **[水产养殖微塑料净化器](https://www.canva.cn/design/DAGxc9MErFU/Qdt_j5Y9Em0rFAXZ8qiiRA/view?utm_content=DAGxc9MErFU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6ec4925bf8)**  
   这是一个生态设计作品，主要解决水产养殖中微塑料的问题。
 
 ### 实习经历
