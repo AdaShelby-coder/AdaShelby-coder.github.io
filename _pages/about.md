@@ -71,7 +71,7 @@ redirect_from:
 - **[SkyLander飞行着陆模拟AI教练](https://www.canva.cn/design/DAGp8Bqx1wk/veP0ZK_tCeAQ6nY3yi--HA/view?utm_content=DAGp8Bqx1wk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7c3ac3c66b)**  
   我们在这个项目中探索了运用AI为飞行员个性化定制飞行训练计划和教学方式的可能性。项目基于微软模拟飞行这一仿真游戏进行开发。
   
-- **[RayFract拾光伞-AI信息产品设计](https://www.canva.cn/design/DAGxcuSwGgU/zWKPtgxKXjYomAxNlK4M9Q/view?utm_content=DAGxcuSwGgU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha16da19d0d)**  
+- **[RayFract拾光伞-AI信息产品设计](https://www.canva.cn/design/DAGxcp5DJbI/8wjKsBKVusv7OS5AaaNPkg/view?utm_content=DAGxcp5DJbI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0156a05edc)**  
   这是基于AI的信息产品设计。
 
 - **[数字红会用户体验设计](https://www.canva.cn/design/DAGsmdWLy9Y/QCR0h6l6Caq4Me4Rcivr7A/view?utm_content=DAGsmdWLy9Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h506a3c4f5a)**  
