@@ -83,7 +83,7 @@ redirect_from:
 - **[《遗珍归途》3D游戏开发](https://durian-lover.itch.io/treasure-going-home)**  
   这是五人合作完成的一个3D游戏demo。1900年八国联军夺走中国文物，玩家作为复原文物的探险者，需要在游戏中夺回中国遗失的文物，将它们带回故乡。
   
-- **[《JoySphere》VisionPro游戏开发](https://www.canva.cn/design/DAGsly2PXKQ/5oRh8I1JgvGvAN7G-p9LZw/view?utm_content=DAGsly2PXKQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcbd3b20d51)**  
+- **[《JoySphere》VisionPro游戏开发](https://www.canva.cn/design/DAGxc1uS2h8/rJm_3TykjSU9f5ugtYfsSQ/view?utm_content=DAGxc1uS2h8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h982473d7a0)**  
   这是我们参加移动应用创新赛的作品，游戏通过移动终端平台——空间计算设备Vision Pro，为用户提供一场沉浸式“儿童趣味游戏记忆穿越”体验。
 
 ### 其他项目
