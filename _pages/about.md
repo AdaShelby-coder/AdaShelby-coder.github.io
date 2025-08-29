@@ -63,7 +63,7 @@ redirect_from:
 - **[基于混合现实的虚拟游戏交互设计研究](https://www.canva.cn/design/DAGxc2ilCSU/VEHyLfJKkDB6inXeIG9d2Q/view?utm_content=DAGxc2ilCSU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6ed4cc4ec8)**  
   这是我在2024.5~2025.5作为立项人参与的SRTP科研训练项目，目标是解决“MR设备控制器精度不足以及操控时运动幅度过大”等问题。
 
-- **[多模态音乐感知辅助自我深省与疗愈研究-AI交互设计](https://www.canva.cn/design/DAGvf10dIlo/bbs2kdGniXEOZM-524zapw/view?utm_content=DAGvf10dIlo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h31e4a11ade)**  
+- **[多模态音乐感知辅助自我深省与疗愈研究-AI交互设计](https://www.canva.cn/design/DAGxc_tSvZo/BHbATKr6nscPXav6BpKAXw/view?utm_content=DAGxc_tSvZo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5600651e00)**  
   这是我2025.7-2025.9跟学长做的科研项目，目前处于论文收尾阶段，预计投递CHI。
 
 ### 作品集
