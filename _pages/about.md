@@ -80,7 +80,7 @@ redirect_from:
 - **[Ada-AI数字人](https://www.canva.cn/design/DAGxc8pS2TY/as5wwNavMh4wSU-wS2bFGw/view?utm_content=DAGxc8pS2TY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdbe79e068e)**  
   这是我在unreal中制作的AI数字人Ada，她是一名音乐疗愈师，可以根据个人情绪定制化地给出疗愈建议和疗愈音乐。
 
-- **[《遗珍归途》3D游戏开发](https://durian-lover.itch.io/treasure-going-home)**  
+- **[《遗珍归途》3D游戏开发](https://www.canva.cn/design/DAGxiWP0gZE/e0WKTua-_dTDtsLdhGwHMA/view?utm_content=DAGxiWP0gZE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha9f1345f1d)**  
   这是五人合作完成的一个3D游戏demo。1900年八国联军夺走中国文物，玩家作为复原文物的探险者，需要在游戏中夺回中国遗失的文物，将它们带回故乡。
   
 - **[《JoySphere》VisionPro游戏开发](https://www.canva.cn/design/DAGxc1uS2h8/rJm_3TykjSU9f5ugtYfsSQ/view?utm_content=DAGxc1uS2h8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h982473d7a0)**  
