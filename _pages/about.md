@@ -73,9 +73,6 @@ redirect_from:
   
 - **[RayFract拾光伞-AI信息产品设计](https://www.canva.cn/design/DAGxcp5DJbI/8wjKsBKVusv7OS5AaaNPkg/view?utm_content=DAGxcp5DJbI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0156a05edc)**  
   这是基于AI的信息产品设计。
-
-- **[数字红会用户体验设计](https://www.canva.cn/design/DAGxcy3NzVs/QtEn5Z_T8COJxPgflAvzaA/view?utm_content=DAGxcy3NzVs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hba85b5f635)**  
-  这是一个UX设计作品，我们经过了用户行为数据调研、总结现存界面问题、竞品分析、对界面再设计等一系列步骤得到最终的作品。
   
 - **[Ada-AI数字人](https://www.canva.cn/design/DAGxc8pS2TY/as5wwNavMh4wSU-wS2bFGw/view?utm_content=DAGxc8pS2TY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdbe79e068e)**  
   这是我在unreal中制作的AI数字人Ada，她是一名音乐疗愈师，可以根据个人情绪定制化地给出疗愈建议和疗愈音乐。
@@ -85,6 +82,9 @@ redirect_from:
   
 - **[《JoySphere》VisionPro游戏开发](https://www.canva.cn/design/DAGxc1uS2h8/rJm_3TykjSU9f5ugtYfsSQ/view?utm_content=DAGxc1uS2h8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h982473d7a0)**  
   这是我们参加移动应用创新赛的作品，游戏通过移动终端平台——空间计算设备Vision Pro，为用户提供一场沉浸式“儿童趣味游戏记忆穿越”体验。
+
+- **[数字红会用户体验设计](https://www.canva.cn/design/DAGxcy3NzVs/QtEn5Z_T8COJxPgflAvzaA/view?utm_content=DAGxcy3NzVs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hba85b5f635)**  
+  这是一个UX设计作品，我们经过了用户行为数据调研、总结现存界面问题、竞品分析、对界面再设计等一系列步骤得到最终的作品。
 
 ### 其他项目
 
